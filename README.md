@@ -1,6 +1,13 @@
 # Thermal_Printer
 ----
 
+## TUTORIALS
+
+[Using the Thermal Printer with the Raspberry Pi](https://github.com/kingston-hackSpace/Thermal_printer_with_raspberry_pi)
+
+
+----
+
 ## Art Inspiring Projects
 
 [Distracted Printer](https://sites.gold.ac.uk/ma-mfa-computationalarts/wei-lee/)
