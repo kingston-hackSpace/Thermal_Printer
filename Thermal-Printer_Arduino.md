@@ -21,6 +21,10 @@ These printers use very common 2.25" (58mm) wide thermal paper, available at hac
 ----
 ## WIRING
 
+Printer Black Wire  = Arduino GND
+Printer Yellow Wire = Arduino pin5 (data IN to the printer (RX))
+Printer Green Wire  = Arduino pin6 (data OUT of the printer (TX))
+
 ----
 ## CODE and INSTRUCTIONS
 
