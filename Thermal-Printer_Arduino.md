@@ -30,7 +30,21 @@ Printer Green Wire  = Arduino pin6 (data OUT of the printer (TX))
 
 ### 1. FIRST TEST
 
-Follow this [instructions for a first test](https://learn.adafruit.com/mini-thermal-receipt-printer/first-test)
+- Follow this [instructions for a first test](https://learn.adafruit.com/mini-thermal-receipt-printer/first-test)
+
+### 2. INSTALL LIBRARIES
+
+- [Download the Thermal Printer Library](https://github.com/kingston-hackSpace/Thermal_Printer/raw/refs/heads/main/Adafruit-Thermal-Printer-Library-master.zip)
+
+- Unzip the library folder
+
+- Locate the folder as follows:
+
+  - Mac: /Documents/Arduino/Libraries
+  
+  - Windows: MyDocuments\Arduino\libraries
+  
+  - Linux: /sketchbook/libraries
 
 
 ----
