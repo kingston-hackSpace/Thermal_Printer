@@ -34,18 +34,19 @@ Printer Green Wire  = Arduino pin6 (data OUT of the printer (TX))
 
 ### 2. INSTALL LIBRARIES
 
-- [Download the Thermal Printer Library](https://github.com/kingston-hackSpace/Thermal_Printer/raw/refs/heads/main/Adafruit-Thermal-Printer-Library-master.zip)
+- Go to the Arduino Library Manager(top panel) and follow: Sketch → Include… Library → Manage… Libraries…
 
-- Unzip the library folder
+- At the search box, type: "Adafruit Thermal Printer Library"
 
-- Locate the folder as follows:
+- Find it and install it
 
-  - Mac: /Documents/Arduino/Libraries
-  
-  - Windows: MyDocuments\Arduino\libraries
-  
-  - Linux: /sketchbook/libraries
+### 3. TESTING CODE
 
+- Open a basic example:
+
+    File → Examples → Adafruit_Thermal Printer Library → A_printertest
+
+- Troubleshooting: If your printer test page shows 'BAUDRATE: 9600', follow intructions [here](https://learn.adafruit.com/mini-thermal-receipt-printer/microcontroller)
 
 ----
 ## READ MORE
