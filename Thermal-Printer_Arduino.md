@@ -26,7 +26,7 @@ These printers use very common 2.25" (58mm) wide thermal paper, available at hac
 
 ### 1. FIRST TEST
 
-
+Follow this [instructions for a first test](https://learn.adafruit.com/mini-thermal-receipt-printer/first-test)
 
 
 ----
