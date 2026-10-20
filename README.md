@@ -3,7 +3,7 @@
 
 ## TUTORIALS
 
-[Using a Thermal Printer with Arduino]
+[Using a Thermal Printer with Arduino](https://github.com/kingston-hackSpace/Thermal_Printer/blob/main/Thermal-Printer_Arduino.md)
 
 [Using a Thermal Printer with a Raspberry Pi](https://github.com/kingston-hackSpace/Thermal_printer_with_raspberry_pi)
 
