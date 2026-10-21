@@ -52,7 +52,7 @@ Printer Green Wire  = Arduino pin6 (data OUT of the printer (TX))
 
 ### 4. FEATURES
     
-- The thermal printer can do several things (demo in the A_printertest sketch). In order, starting from the top:
+- The thermal printer can do several things (demo in the A_printertest sketch). Look at the previous code and explore the features:
 
   - **Inverted text**: this is invoked by calling inverseOn() — you will get text that’s white-on-black instead of black-on-white. inverseOff() turns this off.
 
